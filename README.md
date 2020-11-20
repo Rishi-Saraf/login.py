@@ -8,7 +8,6 @@ Identification criteria is username
 ## Data Storage
 
 Data is stored in an array
-(I know that is dumb anyways)
 
 ## How to run
 
